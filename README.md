@@ -1,1 +1,1 @@
-# HTML_Javascript_Gross_Pay_Calculator
+# HTML_JavaScript_Gross_Pay_Calculator
